@@ -1,2 +1,2 @@
 # React-Demo
-Sample demos for learning react setup and fundamentals
+Sample demos for learning React setup and fundamentals
