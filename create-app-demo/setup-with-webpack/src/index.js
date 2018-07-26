@@ -7,7 +7,7 @@ export default class App extends React.Component {
     render() {
         return (
             <div>
-                <h1 className={style.header}>React with webpack!</h1>
+                <h1 className={style.header}>React setup with webpack!</h1>
             </div>
         );
     }
